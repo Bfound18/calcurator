@@ -1,0 +1,406 @@
+body{
+    background-color:rgb(181, 200, 250);
+}
+.text{
+    position: relative;
+    top: 200px;
+    left: 110px;
+    width: 390px;
+    height: 55px;
+    border: none;
+    box-shadow: 5px 5px 5px gray;
+    border-radius: 5px;
+    font-size: 24px; 
+    font-weight: bold; 
+}
+
+.seven{
+    position: relative;
+    top: 205px;
+    left: 110px;
+    width:95px ;
+    height: 55px;
+    background-color: green;
+    color: white;
+    border: none;
+    cursor: pointer;
+    box-shadow: 5px 5px 5px gray;
+    border-radius: 6px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.seven:hover{
+    opacity: 0.8;
+}
+
+.seven:active{
+    opacity: 1;
+}
+
+.rvai{
+    position: relative;
+    top: 205px;
+    left: 110px;
+    width: 95px;
+    height: 55px;
+    background-color: green;
+    border: none;
+    border-radius: 6px;
+    color: white;
+    box-shadow: 5px 5px 5px gray;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 20px;
+
+}
+.rvai:hover{
+    opacity: 0.8;
+}
+.rvai:active{
+    opacity: 1;
+}
+.nine{
+    position: relative;
+    width: 95px;
+    height: 55px;
+    top: 205px;
+    left: 110px;
+    border: none;
+    box-shadow: 5px 5px 5px gray;
+    color: white;
+    background-color: green;
+    left: 110px;
+    border-radius: 6px;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 20px;
+
+}
+.nine:hover{
+    opacity: 0.8;
+}
+.nine:active{
+    opacity: 1;
+}
+.minus{
+    position: relative;
+    width: 95px;
+    height: 55px;
+    top: 200px;
+    left: 110px;
+    background-color: green;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 6px;
+    box-shadow: 5px 5px 5px gray;
+    font-weight: bold;
+    font-size: 20px;
+}
+.minus:hover{
+    opacity: 0.8;
+}
+.minus:active{
+    opacity: 1;
+}
+.four{
+    position:relative;
+    width: 95px;
+    height: 55px;
+    top:210px;
+    left: 110px;
+    color: white;
+    background-color: green;
+    border: none;
+    box-shadow: 5px 5px 5px gray;
+    border-radius: 6px;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 20px;
+}
+.four:hover{
+    opacity: 0.8;
+}
+.four:active{
+    opacity: 1;
+}
+.five{
+    position: relative;
+    width: 95px;
+    height: 55px;
+    border-radius: 6px;
+    border:none;
+    background-color: green;
+    color:white;
+    top: 210px;
+    left: 110px;
+    box-shadow:5px 5px 5px gray;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 20px;
+}
+.five:hover{
+    opacity: 0.8;
+}
+.five:active{
+    opacity: 1;
+}
+.ac{ 
+    left: 110px;
+    position: relative;
+    width: 95px; 
+    height: 57px;
+    top: 200px;
+    background-color: green; 
+    color: white; 
+    font-size: 20px; 
+    font-weight: bold; 
+    border: none; 
+    border-radius: 5px; 
+    box-shadow: 5px 5px 5px gray;
+} 
+
+.ac:hover{
+    opacity: 0.8;
+}
+.ac:active{
+    opacity: 1;
+}
+.six{ 
+    position: relative;
+    top: 210px;
+    left: 110px;
+    width:95px ;
+    height: 55px;
+    background-color: green;
+    color: white;
+    border: none;
+    cursor: pointer;
+    box-shadow: 5px 5px 5px gray;
+    border-radius: 6px;
+    font-weight: bold;
+    font-size: 20px;
+
+}
+.six:hover{
+    opacity: 0.8;
+}
+.six:active{
+    opacity: 1;
+}
+.pluse{
+    position: relative;
+    top: 200px;
+    left: 110px;
+    width:95px ;
+    height: 55px;
+    background-color: green;
+    color: white;
+    border: none;
+    cursor: pointer;
+    box-shadow: 5px 5px 5px gray;
+    border-radius: 6px;
+    font-weight: bold;
+    font-size: 20px;
+}
+.three{
+    position: relative;
+    top: 215px;
+    left: 110px;
+    width:95px ;
+    height: 55px;
+    background-color: green;
+    color: white;
+    border: none;
+    cursor: pointer;
+    box-shadow: 5px 5px 5px gray;
+    border-radius: 6px;
+    font-weight: bold;
+    font-size: 20px;
+}
+.three:hover{
+    opacity: 0.8;
+}
+.three:active{
+    opacity: 1;
+}
+.two{
+    position: relative;
+    top: 215px;
+    left: 110px;
+    width:95px ;
+    height: 55px;
+    background-color: green;
+    color: white;
+    border: none;
+    cursor: pointer;
+    box-shadow: 5px 5px 5px gray;
+    border-radius: 6px;
+    font-weight: bold;
+    font-size: 20px;
+}
+.two:hover{
+    opacity: 0.8;
+}
+.two:active{
+    opacity: 1;
+}
+.one{
+    position: relative;
+    top: 215px;
+    left: 110px;
+    width:95px ;
+    height: 55px;
+    background-color: green;
+    color: white;
+    border: none;
+    cursor: pointer;
+    box-shadow: 5px 5px 5px gray;
+    border-radius: 6px;
+    font-weight: bold;
+    font-size: 20px;
+}
+.one:hover{
+    opacity: 0.8;
+}
+.one:active{
+    opacity: 1;
+}
+.times{
+    position: relative;
+    top: 205px;
+    left: 110px;
+    width:95px ;
+    height: 55px;
+    background-color: green;
+    color: white;
+    border: none;
+    cursor: pointer;
+    box-shadow: 5px 5px 5px gray;
+    border-radius: 6px;
+    font-weight: bold;
+    font-size: 20px;
+}
+.times:hover{
+    opacity: 0.8;
+}
+.times:active{
+    opacity: 1;
+}
+.dot{
+    position: relative;
+    top: 220px;
+    left: 110px;
+    width:95px ;
+    height: 55px;
+    background-color: green;
+    color: white;
+    border: none;
+    cursor: pointer;
+    box-shadow: 5px 5px 5px gray;
+    border-radius: 6px;
+    font-weight: bold;
+    font-size: 20px;
+}
+.dot:hover{
+    opacity: 0.8;
+}
+.dot:active{
+    opacity: 1;
+}
+.zero{
+    position: relative;
+    top: 220px;
+    left: 110px;
+    width:95px ;
+    height: 55px;
+    background-color: green;
+    color: white;
+    border: none;
+    cursor: pointer;
+    box-shadow: 5px 5px 5px gray;
+    border-radius: 6px;
+    font-weight: bold;
+    font-size: 20px;
+}
+.zero:hover{
+    opacity: 0.8;
+
+}
+.zero:active{
+    opacity: 1;
+}
+.pro{
+    position: relative;
+    top: 220px;
+    left: 110px;
+    width:95px ;
+    height: 55px;
+    background-color: green;
+    color: white;
+    border: none;
+    cursor: pointer;
+    box-shadow: 5px 5px 5px gray;
+    border-radius: 6px;
+    font-weight: bold;
+    font-size: 20px;
+}
+.pro:hover{
+    opacity: 0.8;
+}
+.pro:active{
+    opacity: 1;
+}
+.div{
+    position: relative;
+    top: 210px;
+    left: 110px;
+    width:95px ;
+    height: 55px;
+    background-color: green;
+    color: white;
+    border: none;
+    cursor: pointer;
+    box-shadow: 5px 5px 5px gray;
+    border-radius: 6px;
+    font-weight: bold;
+    font-size: 20px;
+}
+.div:hover{
+    opacity: 0.8;
+}
+.div:active{
+    opacity: 1;
+}
+.del{
+    
+    position: relative;
+    top: 200px;
+    left: 110px;
+    width:95px ;
+    height: 55px;
+    background-color:green;
+    color: white;
+    border: none;
+    cursor: pointer;
+    box-shadow: 5px 5px 5px gray;
+    border-radius: 6px;
+    font-weight: bold;
+    font-size: 20px;
+
+}
+.del:hover{
+    opacity: 0.8;
+}
+.del:active{
+    opacity: 1;
+}
+
+
+
+
+
+
+
+
